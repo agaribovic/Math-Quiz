@@ -1,5 +1,5 @@
 //
-//  substractionView.swift
+//  subtractionView.swift
 //  math quizz
 //
 //  Created by Alen  on 30/04/16.
